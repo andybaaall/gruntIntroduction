@@ -1,0 +1,33 @@
+{
+  "name": "andy-grunt-introduction",
+  "version": "1.0.0",
+  "description": "today we're learning to use grunt",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andybaaall/gruntIntroduction.git"
+  },
+  "keywords": [
+    "grunt",
+    "css",
+    "js"
+  ],
+  "author": "andy ball",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andybaaall/gruntIntroduction/issues"
+  },
+  "homepage": "https://github.com/andybaaall/gruntIntroduction#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
